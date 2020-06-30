@@ -1,3 +1,4 @@
 { 
-  message: "Hello there sweet thang!"
+  message: "Hello there sweet thang!",
+  random: @random
 }
